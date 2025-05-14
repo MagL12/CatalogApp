@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_main">#FF7E57C2</color> <!-- Тулбар -->
+    <color name="purple_dark">#FF5E35B1</color> <!-- Статус-бар -->
+    <color name="purple_accent">#FFBB86FC</color> <!-- Акцент (бывший purple_200) -->
+    <color name="background_color">#FFF5F5F5</color>
+</resources>

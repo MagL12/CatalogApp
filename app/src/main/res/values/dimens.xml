@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="card_min_width">150dp</dimen>
+</resources>

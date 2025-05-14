@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CatalogApp</string>
+    <string name="category_image_desc">Изображение категории</string>
+    <string name="product_image_desc">Изображение товара</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.CatalogApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Фон тулбара -->
+        <item name="colorPrimary">@color/purple_main</item>
+        <!-- Фон статус-бара -->
+        <item name="colorPrimaryDark">@color/purple_dark</item>
+        <!-- Акцентный цвет -->
+        <item name="colorAccent">@color/purple_accent</item>
+        <!-- Цвет статус-бара -->
+        <item name="android:statusBarColor">?attr/colorPrimaryDark</item>
+        <!-- Белые иконки в статус-баре -->
+        <item name="android:windowLightStatusBar">false</item>
+        <!-- Отключение системного ActionBar -->
+        <item name="windowActionBar">false</item>
+        <!-- Отключение заголовка окна -->
+        <item name="windowNoTitle">true</item>
+        <!-- Стиль тулбара -->
+        <item name="toolbarStyle">@style/Widget.MaterialComponents.Toolbar.Primary</item>
+    </style>
+</resources>
